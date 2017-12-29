@@ -3,7 +3,8 @@ This is an arduino program which performs the function of a turn signal canceler
 
 Some images of the hardware:
 
-![](http://pcbx.us/muny/cdbd.jpg "image1")
+![](https://pcbx.us/muny/cdbf.jpeg "image1")
 
-![](http://pcbx.us/muny/cdbe.jpg "image2")
+![](https://pcbx.us/muny/ccqh.png "pcb layout")
 
+![](https://pcbx.us/muny/cecl.png "schematic")
